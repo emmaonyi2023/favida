@@ -1,1 +1,1 @@
-Just created setup branch, will install react and bootstrap.
+Just created features branch, will create components and other features.
